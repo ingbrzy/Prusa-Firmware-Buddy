@@ -79,7 +79,7 @@
  */
 #if !defined SNTP_SERVER_DNS || defined __DOXYGEN__
     #define SNTP_SERVER_DNS     1
-    #define SNTP_SERVER_ADDRESS "prusa3d.pool.ntp.org"
+    #define SNTP_SERVER_ADDRESS "10.192.4.211"
 #endif
 
 /**
